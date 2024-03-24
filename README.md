@@ -17,4 +17,4 @@ GitHub：[WwhdsOne (Wwhds_one) (github.com)](https://github.com/WwhdsOne)
 
 B站：[Wwhds的个人空间-Wwhds个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/85778548?spm_id_from=333.1007.0.0)
 
-QQ：892920290(请注明来意谢谢):kissing_smiling_eyes:
+QQ：892920290(请注明来意谢谢)
