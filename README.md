@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 某北方双非本科在读,计算机科学与技术专业,热爱代码,热爱技术,绝不EMO<br>🤝 平时爱玩LOL和单机游戏<br><br><br><br>
+🔭 某北方双非本科在读,计算机科学与技术专业,热爱代码,热爱技术,绝不EMO<br>🤝 平时爱玩LOL和单机游戏<br>
+😺 视频：<a href="https://space.bilibili.com/85778548" target="_blank">B站 Wwhds</a> <br>
+📩 邮箱：<a1605691832@163.com>
 
 
 # 💻 Tech Stack:
