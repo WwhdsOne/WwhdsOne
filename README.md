@@ -1,22 +1,21 @@
-某北方双非本科在读,计算机科学与技术专业,热爱代码,热爱技术,绝不EMO
+# 💫 About Me:
+🔭 某北方双非本科在读,计算机科学与技术专业,热爱代码,热爱技术,绝不EMO<br>🤝 平时爱玩LOL和单机游戏<br><br><br><br>
 
-平时爱玩LOL和单机游戏
 
-联系方式
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=WwhdsOne&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WwhdsOne&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WwhdsOne&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-邮箱：a1605691832@163.com
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=WwhdsOne&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-GitHub：[WwhdsOne (Wwhds_one) (github.com)](https://github.com/WwhdsOne)
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-B站：[Wwhds的个人空间-Wwhds个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/85778548?spm_id_from=333.1007.0.0)
+---
+[![](https://visitcount.itsvg.in/api?id=WwhdsOne&icon=0&color=0)](https://visitcount.itsvg.in)
 
-QQ：892920290(请注明来意谢谢)
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=WwhdsOne&include_all_commits=true&count_private-true&custom_title=WwhdsOne'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WwhdsOne">
-
-![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-192133?style=flat-square&logo=elasticsearch&logoColor=white)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
