@@ -3,7 +3,7 @@
 
 🤝 平时喜欢玩单机游戏
 
-😺 视频：B站 [Wwhds]((https://space.bilibili.com/85778548?spm_id_from=333.1007.0.0)
+😺 视频：B站 [Wwhds](https://space.bilibili.com/85778548?spm_id_from=333.1007.0.0)
 
 📩 邮箱：a1605691832@163.com
 
