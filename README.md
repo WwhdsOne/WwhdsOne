@@ -24,10 +24,10 @@
 # 🌐 我的项目 / 页面
 
 - [RAG AI 对话](https://www.soyorinlove.cn)  
-  ![](./assets/soyorinlove.png)
+  ![](https://cdn.jsdelivr.net/gh/WwhdsOne/WwhdsOne@master/assets/soyorinlove.png)
 
 - [CodeGeex 校园版](https://campus.codegeex.cn/home)  
-  ![](./assets/CodeGeex_Campus.png)
+  ![](https://cdn.jsdelivr.net/gh/WwhdsOne/WwhdsOne@master/assets/CodeGeex_Campus.png)
 
 # 🏢 实习经历
 - **2024.7 - 2025.2** 智谱华章，后端工程师  
