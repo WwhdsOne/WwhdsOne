@@ -37,7 +37,7 @@
 - [CodeGeex 校园版](https://campus.codegeex.cn/home)  
   ![](https://cdn.jsdelivr.net/gh/WwhdsOne/WwhdsOne@master/assets/CodeGeex_Campus.png)
 
-- [个人SKILL库](https://github.com/WwhdsOne/WSkill)![](https://cdn.jsdelivr.net/gh/WwhdsOne/WwhdsOne@master/assets/WSkill.png)
+- [个人SKILL库](https://github.com/WwhdsOne/WSkill)![](https://cdn.jsdelivr.net/gh/WwhdsOne/WwhdsOne@master/assets/wskill.png)
 
 # 🏢 实习经历
 
