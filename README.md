@@ -1,11 +1,18 @@
 # 💫 About Me:
-🔭 某北方双非本科在读，计算机科学与技术专业，热爱代码，热爱技术，绝不 EMO
+🔭 教育背景
 
-😺 视频：B 站 Wwhds
+- **2022 - 2026** 北方工业大学 计算机科学与技术（学士）
+- **2026 - 2028** 北京交通大学软件工程（硕士）
+
+🤝 平时喜欢玩单机游戏
+
+😺 视频：B 站昵称 Wwhds
 
 📩 邮箱：a1605691832@163.com
 
 💬 微信：a133926380
+
+💬  QQ：892920290
 
 # 💻 Tech Stack
 
@@ -20,6 +27,9 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 # 🌐 我的项目 / 页面
+
+- [🌟大海世界🌟点击小游戏](https://www.wclick.top)  
+  ![](https://cdn.jsdelivr.net/gh/WwhdsOne/WwhdsOne@master/assets/hai-world.png)
 
 - [RAG AI 对话](https://www.soyorinlove.cn)  
   ![](https://cdn.jsdelivr.net/gh/WwhdsOne/WwhdsOne@master/assets/soyorinlove.png)
@@ -51,3 +61,6 @@
   > [Spider](https://yale-lily.github.io/spider)
 
   • 文档编写：实习期间提供了 30 + 篇研发文档和技术文档，确保项目可维护性，总结了相关经验。
+
+- **2025.12 - 2026.1**蓝色光标
+- **2026.2 - 2026.1**句子互动
