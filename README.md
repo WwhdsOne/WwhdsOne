@@ -37,7 +37,10 @@
 - [CodeGeex 校园版](https://campus.codegeex.cn/home)  
   ![](https://cdn.jsdelivr.net/gh/WwhdsOne/WwhdsOne@master/assets/CodeGeex_Campus.png)
 
+- [个人SKILL库](https://github.com/WwhdsOne/WSkill)![](https://cdn.jsdelivr.net/gh/WwhdsOne/WwhdsOne@master/assets/WSkill.png)
+
 # 🏢 实习经历
+
 - **2024.7 - 2025.2** 智谱华章，后端工程师  
 
   • 开发了多个重要项目并参与多版本迭代：
