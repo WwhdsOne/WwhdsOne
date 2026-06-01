@@ -1,8 +1,12 @@
-# 👋 Hey, I'm Wwhds
-
+<h1 align="center">Hi 👋, I'm Wwhds</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=550&lines=👋+Hey,+I'm+Wwhds;🎓+北方工大+计算机学士→+北交大+软工硕士;💻+Go+|+Java+|+Python+|+Rust+|Backend;🏢+Intern+@+智谱华章+|+蓝色光标+|+句子互动;🤖+CodeGeeX+|+AICO+|+模型评测;🎮+自研点击游戏;⛵+阿里云+|+腾讯云+DevOps;🎬+B站UP主+|+单机游戏玩家" />
+  <img
+    width="600"
+    height="280"
+    src=https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=9&center=true&vCenter=true&multiline=true&width=435&height=250&separator=%3C&lines=%F0%9F%91%8B+Hey%2C+I'm+Wwhds;%3C%F0%9F%8E%93+%E5%8C%97%E6%96%B9%E5%B7%A5%E5%A4%A7%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E5%A3%AB+%E2%86%92+%E5%8C%97%E4%BA%A4%E5%A4%A7%E8%BD%AF%E5%B7%A5%E7%A1%95%E5%A3%AB;%3C%F0%9F%92%BB+Go+%C2%B7+Java+%C2%B7+Python+%C2%B7+Rust+%C2%B7+Backend;%3C%F0%9F%8F%A2+Intern+%40+%E6%99%BA%E8%B0%B1%E5%8D%8E%E7%AB%A0+%C2%B7+%E8%93%9D%E8%89%B2%E5%85%89%E6%A0%87+%C2%B7+%E5%8F%A5%E5%AD%90%E4%BA%92%E5%8A%A8;%3C%F0%9F%A4%96+CodeGeeX+%C2%B7+AICO+%C2%B7+%E6%A8%A1%E5%9E%8B%E8%AF%84%E6%B5%8B;%3C%F0%9F%8E%AE+%E8%87%AA%E7%A0%94%E7%82%B9%E5%87%BB%E6%B8%B8%E6%88%8F;%3C%E2%9B%B5+%E9%98%BF%E9%87%8C%E4%BA%91+%C2%B7+%E8%85%BE%E8%AE%AF%E4%BA%91+DevOps;%3C%F0%9F%8E%AC+B%E7%AB%99UP%E4%B8%BB+%C2%B7+%E5%8D%95%E6%9C%BA%E6%B8%B8%E6%88%8F%E7%8E%A9%E5%AE%B6
+    alt="Typing SVG"
+  />
 </p>
 
 > **2022 – 2026** 北方工业大学 · 计算机科学与技术（学士）
