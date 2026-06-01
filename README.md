@@ -1,7 +1,9 @@
 # 👋 Hey, I'm Wwhds
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=550&lines=👋+Hey,+I'm+Wwhds;🎓+北方工大+计算机学士→+北交大+软工硕士;💻+Go+|+Java+|+Python+|+Rust+|Backend;🏢+Intern+@+智谱华章+|+蓝色光标+|+句子互动;🤖+CodeGeeX+|+AICO+|+模型评测;🎮+自研点击游戏+|;⛵+阿里云+|+腾讯云+DevOps;🎬+B站+UP主+|+单机游戏玩家)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=550&lines=👋+Hey,+I'm+Wwhds;🎓+北方工大+计算机学士→+北交大+软工硕士;💻+Go+|+Java+|+Python+|+Rust+|Backend;🏢+Intern+@+智谱华章+|+蓝色光标+|+句子互动;🤖+CodeGeeX+|+AICO+|+模型评测;🎮+自研点击游戏;⛵+阿里云+|+腾讯云+DevOps;🎬+B站UP主+|+单机游戏玩家" />
+</p>
 
 > **2022 – 2026** 北方工业大学 · 计算机科学与技术（学士）
 > **2026 – 2028** 北京交通大学 · 软件工程（硕士）
