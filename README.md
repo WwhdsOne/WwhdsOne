@@ -12,7 +12,7 @@
 > **2022 – 2026** 北方工业大学 · 计算机科学与技术（学士）
 > **2026 – 2028** 北京交通大学 · 软件工程（硕士）
 
-🎮 单机游戏爱好者 | 🎬 B站: [Wwhds](https://space.bilibili.com/你的UID) | 📬 a1605691832@163.com
+🎮 单机游戏爱好者 | 📬 a1605691832@163.com
 
 <p align="left">
 <a href="https://github.com/WwhdsOne"><img src="https://img.shields.io/badge/GitHub-WwhdsOne-181717?logo=github&style=flat-square"/></a>
