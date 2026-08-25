@@ -88,8 +88,6 @@
 | ![Stats](https://github-readme-stats-six-roan-87.vercel.app/api?username=WwhdsOne&show_icons=true&card_width=445&locale=cn&cache_seconds=0) | ![Top Langs](https://github-readme-stats-six-roan-87.vercel.app/api/top-langs/?username=WwhdsOne&layout=compact&card_width=445&locale=cn&cache_seconds=0) |
 | --- | --- |
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WwhdsOne&theme=github-compact)
-
 ---
 
 ## 🌐 Projects
