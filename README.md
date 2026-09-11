@@ -94,7 +94,7 @@
 
  **🌊 大海世界 · 点击小游戏** 自研放置点击类 Web 游戏 [play](https://www.wclick.top) ![](https://cdn.jsdelivr.net/gh/WwhdsOne/WwhdsOne@master/assets/hai-world.png) 
 **智谱实习期间项目 · CodeGeex校园版**- [CodeGeex 校园版](https://campus.codegeex.cn/home)  ![](https://cdn.jsdelivr.net/gh/WwhdsOne/WwhdsOne@master/assets/CodeGeex_Campus.png)
- **🤖 RAG AI 对话** 基于 RAG 架构的 AI 对话应用 [chat](https://www.soyorinlove.cn) ![](https://cdn.jsdelivr.net/gh/WwhdsOne/WwhdsOne@master/assets/soyorinlove.png) 
+ **🤖 RAG AI 对话（已下线...）** 基于 RAG 架构的 AI 对话应用 [chat](https://www.soyorinlove.cn) ![](https://cdn.jsdelivr.net/gh/WwhdsOne/WwhdsOne@master/assets/soyorinlove.png) 
  **🧩 WSkill · 个人 Skill 库** 可复用的 AI Agent 技能集合 [repo](https://github.com/WwhdsOne/WSkill) ![](https://cdn.jsdelivr.net/gh/WwhdsOne/WwhdsOne@master/assets/wskill.png) 
 
 ---
